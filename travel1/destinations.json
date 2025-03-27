@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Goa",
+        "region": "West India",
+        "budget_level": "medium",
+        "trip_type": ["beach", "party", "relaxation"],
+        "budget_per_day": 2000,
+        "food_specialties": ["Seafood", "Goan Cuisine", "Street Food"],
+        "best_time_to_visit": ["October", "November", "December", "January", "February"],
+        "transportation": ["flight", "train", "road trip"],
+        "popular_activities": ["Beach parties", "Water sports", "Sunbathing", "Nightlife", "Fort visits"]
+    },
+    {
+        "name": "Pondicherry",
+        "region": "South India",
+        "budget_level": "medium",
+        "trip_type": ["beach", "heritage"],
+        "budget_per_day": 1500,
+        "food_specialties": ["French Cuisine", "South Indian"],
+        "best_time_to_visit": ["September", "October", "November"],
+        "transportation": ["train", "road trip"],
+        "popular_activities": ["Beach walks", "Auroville visit", "French colony tour", "Cycling", "Meditation"]
+    },
+    {
+        "name": "Ooty",
+        "region": "South India",
+        "budget_level": "medium",
+        "trip_type": ["nature", "hills"],
+        "budget_per_day": 1800,
+        "food_specialties": ["Tea", "South Indian"],
+        "best_time_to_visit": ["March", "April", "May", "June"],
+        "transportation": ["train", "road trip"],
+        "popular_activities": ["Toy train ride", "Botanical garden visit", "Boating in Ooty Lake", "Tea estate tour"]
+    },
+    {
+        "name": "Manali",
+        "region": "North India",
+        "budget_level": "high",
+        "trip_type": ["adventure", "nature"],
+        "budget_per_day": 3000,
+        "food_specialties": ["Momos", "North Indian"],
+        "best_time_to_visit": ["December", "January", "February"],
+        "transportation": ["road trip", "bus"],
+        "popular_activities": ["Skiing", "Paragliding", "River rafting", "Hiking", "Shopping at Mall Road"]
+    },
+    {
+        "name": "Shimla",
+        "region": "North India",
+        "budget_level": "medium",
+        "trip_type": ["hills", "nature"],
+        "budget_per_day": 2500,
+        "food_specialties": ["Chana Madra", "Dham"],
+        "best_time_to_visit": ["October", "November", "December", "January"],
+        "transportation": ["train", "road trip"],
+        "popular_activities": ["Toy train ride", "Mall Road shopping", "Ice skating", "Trekking"]
+    },
+    {
+        "name": "Jaipur",
+        "region": "North India",
+        "budget_level": "medium",
+        "trip_type": ["historical", "cultural"],
+        "budget_per_day": 2500,
+        "food_specialties": ["Dal Baati Churma", "Rajasthani Thali"],
+        "best_time_to_visit": ["October", "November", "December", "January"],
+        "transportation": ["train", "flight", "road trip"],
+        "popular_activities": ["Palace visits", "Elephant ride", "Shopping at Bazaars", "Rajasthani folk shows"]
+    },
+    {
+        "name": "Leh Ladakh",
+        "region": "North India",
+        "budget_level": "high",
+        "trip_type": ["adventure", "nature", "trekking"],
+        "budget_per_day": 3500,
+        "food_specialties": ["Thukpa", "Momos"],
+        "best_time_to_visit": ["June", "July", "August"],
+        "transportation": ["road trip", "flight"],
+        "popular_activities": ["Bike trip", "Trekking", "Monastery visits", "Camping by Pangong Lake"]
+    },
+    {
+        "name": "Rishikesh",
+        "region": "North India",
+        "budget_level": "low",
+        "trip_type": ["adventure", "spiritual"],
+        "budget_per_day": 1200,
+        "food_specialties": ["Vegetarian", "North Indian"],
+        "best_time_to_visit": ["October", "November", "March", "April"],
+        "transportation": ["train", "bus", "road trip"],
+        "popular_activities": ["River rafting", "Yoga retreat", "Ganga Aarti", "Bungee jumping"]
+    },
+    {
+        "name": "Kolkata",
+        "region": "East India",
+        "budget_level": "low",
+        "trip_type": ["cultural", "historical"],
+        "budget_per_day": 1500,
+        "food_specialties": ["Fish Curry", "Rosogolla"],
+        "best_time_to_visit": ["October", "November", "December"],
+        "transportation": ["train", "flight"],
+        "popular_activities": ["Durga Puja festival", "Heritage walk", "Tram ride", "Street food tour"]
+    },
+    {
+        "name": "Darjeeling",
+        "region": "East India",
+        "budget_level": "medium",
+        "trip_type": ["hills", "nature"],
+        "budget_per_day": 2000,
+        "food_specialties": ["Tea", "Momos"],
+        "best_time_to_visit": ["March", "April", "May", "June"],
+        "transportation": ["train", "road trip"],
+        "popular_activities": ["Toy train ride", "Tea garden visit", "Trekking", "Watching sunrise from Tiger Hill"]
+    },
+    {
+        "name": "Mumbai",
+        "region": "West India",
+        "budget_level": "high",
+        "trip_type": ["beach", "urban"],
+        "budget_per_day": 3500,
+        "food_specialties": ["Vada Pav", "Pav Bhaji", "Seafood"],
+        "best_time_to_visit": ["November", "December", "January"],
+        "transportation": ["flight", "train"],
+        "popular_activities": ["Marine Drive walk", "Local street food tour", "Bollywood tour", "Shopping at Colaba"]
+    },
+    {
+        "name": "Bangalore",
+        "region": "South India",
+        "budget_level": "medium",
+        "trip_type": ["urban", "tech hub"],
+        "budget_per_day": 2500,
+        "food_specialties": ["Dosa", "Biryani"],
+        "best_time_to_visit": ["September", "October", "November"],
+        "transportation": ["flight", "train"],
+        "popular_activities": ["Pub hopping", "Visit tech parks", "Explore Lalbagh", "Shopping at Commercial Street"]
+    },
+    {
+        "name": "Chennai",
+        "region": "South India",
+        "budget_level": "low",
+        "trip_type": ["beach", "cultural"],
+        "budget_per_day": 1800,
+        "food_specialties": ["South Indian", "Chettinad Cuisine"],
+        "best_time_to_visit": ["November", "December", "January"],
+        "transportation": ["train", "flight"],
+        "popular_activities": ["Marina Beach visit", "Temple tour", "Shopping at T Nagar", "Classical dance show"]
+    },
+    {
+        "name": "Mysore",
+        "region": "South India",
+        "budget_level": "low",
+        "trip_type": ["historical", "cultural"],
+        "budget_per_day": 1500,
+        "food_specialties": ["Mysore Pak", "Dosa"],
+        "best_time_to_visit": ["September", "October", "November"],
+        "transportation": ["train", "road trip"],
+        "popular_activities": ["Mysore Palace visit", "Chamundi Hills trek", "Zoo visit", "Shopping for silk sarees"]
+    },
+    {
+        "name": "Hyderabad",
+        "region": "South India",
+        "budget_level": "medium",
+        "trip_type": ["historical", "urban"],
+        "budget_per_day": 2200,
+        "food_specialties": ["Hyderabadi Biryani", "Haleem"],
+        "best_time_to_visit": ["October", "November", "December"],
+        "transportation": ["flight", "train"],
+        "popular_activities": ["Charminar visit", "Golconda Fort tour", "Street food walk", "Shopping at Laad Bazaar"]
+    }
+]

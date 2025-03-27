@@ -1,0 +1,60 @@
+{
+    "budget_levels": {
+        "low": {
+            "description": "Budget-friendly travel with affordable accommodation and food.",
+            "price_range": "₹1000 - ₹1500 per day"
+        },
+        "medium": {
+            "description": "Comfortable travel with mid-range hotels and dining options.",
+            "price_range": "₹1500 - ₹3000 per day"
+        },
+        "high": {
+            "description": "Luxury travel with premium hotels, fine dining, and exclusive experiences.",
+            "price_range": "₹3000+ per day"
+        }
+    },
+
+    "ideal_durations": [
+        { "min_days": 2, "max_days": 4, "type": "short getaway" },
+        { "min_days": 5, "max_days": 7, "type": "moderate vacation" },
+        { "min_days": 8, "max_days": 15, "type": "extended travel" }
+    ],
+
+    "tags": {
+        "beach": "Relaxing by the sea, enjoying water activities.",
+        "adventure": "Hiking, trekking, river rafting, paragliding, extreme sports.",
+        "romantic": "Couple-friendly destinations with scenic views and peaceful stays.",
+        "historical": "Exploring ancient monuments, forts, palaces, and cultural heritage.",
+        "nature": "Mountains, hills, lakes, forests, and serene landscapes.",
+        "luxury": "High-end resorts, fine dining, and exclusive experiences.",
+        "budget": "Affordable stays, local transport, and street food.",
+        "urban": "City life with modern infrastructure and vibrant nightlife.",
+        "spiritual": "Destinations known for yoga, meditation, and religious experiences.",
+        "cultural": "Places rich in traditions, art, and local festivals."
+    },
+
+    "regions": {
+        "North India": "Famous for its hills, culture, and spiritual locations like Manali, Shimla, Jaipur, Rishikesh, and Leh Ladakh.",
+        "South India": "Known for beaches, heritage, and nature spots like Ooty, Pondicherry, Bangalore, Chennai, Mysore, and Hyderabad.",
+        "West India": "Popular for beaches, parties, and urban hubs like Goa and Mumbai.",
+        "East India": "Culturally rich and scenic locations like Kolkata and Darjeeling."
+    },
+
+    "locations": [
+        { "name": "Goa", "country": "India", "popular_for": ["beach", "party", "relaxation"] },
+        { "name": "Pondicherry", "country": "India", "popular_for": ["beach", "heritage"] },
+        { "name": "Ooty", "country": "India", "popular_for": ["nature", "hills"] },
+        { "name": "Manali", "country": "India", "popular_for": ["adventure", "nature"] },
+        { "name": "Shimla", "country": "India", "popular_for": ["hills", "nature"] },
+        { "name": "Jaipur", "country": "India", "popular_for": ["historical", "cultural"] },
+        { "name": "Leh Ladakh", "country": "India", "popular_for": ["adventure", "nature", "trekking"] },
+        { "name": "Rishikesh", "country": "India", "popular_for": ["adventure", "spiritual"] },
+        { "name": "Kolkata", "country": "India", "popular_for": ["cultural", "historical"] },
+        { "name": "Darjeeling", "country": "India", "popular_for": ["hills", "nature"] },
+        { "name": "Mumbai", "country": "India", "popular_for": ["beach", "urban"] },
+        { "name": "Bangalore", "country": "India", "popular_for": ["urban", "tech hub"] },
+        { "name": "Chennai", "country": "India", "popular_for": ["beach", "cultural"] },
+        { "name": "Mysore", "country": "India", "popular_for": ["historical", "cultural"] },
+        { "name": "Hyderabad", "country": "India", "popular_for": ["historical", "urban"] }
+    ]
+}

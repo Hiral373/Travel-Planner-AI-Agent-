@@ -1,0 +1,179 @@
+{
+    "Goa": {
+        "Day 1": [
+            "🌴 Relax at Baga Beach and enjoy water sports",
+            "🍹 Visit a beach shack for seafood and drinks",
+            "🌅 Watch the sunset at Fort Aguada"
+        ],
+        "Day 2": [
+            "🏛️ Explore Old Goa churches and Basilica of Bom Jesus",
+            "🛍️ Visit the Anjuna Flea Market",
+            "🎭 Enjoy Goa’s nightlife at a famous club"
+        ],
+        "Day 3": [
+            "🌳 Visit Dudhsagar Waterfalls",
+            "🍲 Try authentic Goan breakfast (Pao Bhaji, Bebinca)",
+            "✈️ Depart or take a relaxing boat ride in the backwaters"
+        ]
+    },
+    "Jaipur": {
+        "Day 1": [
+            "🏰 Visit the Amber Fort and take an elephant ride",
+            "📸 Explore Hawa Mahal for breathtaking views",
+            "🍽️ Enjoy authentic Rajasthani cuisine at Chokhi Dhani"
+        ],
+        "Day 2": [
+            "🏛️ Discover the City Palace and Jantar Mantar",
+            "🛍️ Shop for handicrafts and jewelry at Johri Bazaar",
+            "🎭 Watch a cultural performance at Nahargarh Fort"
+        ],
+        "Day 3": [
+            "🌳 Visit Nahargarh Biological Park",
+            "🍲 Try famous Pyaaz Kachori for breakfast",
+            "✈️ Depart or explore more local attractions"
+        ]
+    },
+    "Mumbai": {
+        "Day 1": [
+            "🏛️ Visit the Gateway of India and take a ferry to Elephanta Caves",
+            "🍽️ Enjoy street food at Chowpatty Beach",
+            "🌆 Explore Marine Drive and watch the sunset"
+        ],
+        "Day 2": [
+            "🎥 Tour Bollywood studios or Film City",
+            "🛍️ Shop at Colaba Causeway and Linking Road",
+            "🍹 Experience Mumbai nightlife at a rooftop bar"
+        ],
+        "Day 3": [
+            "🌳 Visit Sanjay Gandhi National Park & Kanheri Caves",
+            "🍲 Have a traditional breakfast at an Irani cafe",
+            "✈️ Depart or take a walk along Bandra-Worli Sea Link"
+        ]
+    },
+    "Kerala": {
+        "Day 1": [
+            "🚢 Enjoy a houseboat cruise in Alleppey backwaters",
+            "🌴 Relax on the beaches of Kovalam",
+            "🍲 Try Kerala-style seafood at a beachside shack"
+        ],
+        "Day 2": [
+            "🐘 Visit Periyar Wildlife Sanctuary in Thekkady",
+            "💆 Experience an Ayurvedic spa treatment",
+            "🛶 Take a canoe ride through Kumarakom’s canals"
+        ],
+        "Day 3": [
+            "🌿 Explore Munnar’s tea plantations",
+            "☕ Visit a tea factory and taste fresh Kerala tea",
+            "✈️ Depart or take a temple tour in Trivandrum"
+        ]
+    },
+    "Delhi": {
+        "Day 1": [
+            "🏰 Explore the Red Fort and Jama Masjid",
+            "🍽️ Enjoy Mughlai food at Karim’s",
+            "🌆 Visit India Gate in the evening"
+        ],
+        "Day 2": [
+            "🏛️ Discover Qutub Minar and Humayun’s Tomb",
+            "🛍️ Shop at Chandni Chowk and Connaught Place",
+            "🎭 Watch a cultural show at Kingdom of Dreams"
+        ],
+        "Day 3": [
+            "🌳 Take a morning walk at Lodhi Garden",
+            "🍲 Try Delhi’s famous Chole Bhature",
+            "✈️ Depart or visit Akshardham Temple"
+        ]
+    },
+    "Rajasthan": {
+        "Day 1": [
+            "🏰 Explore Udaipur’s City Palace and take a boat ride on Lake Pichola",
+            "🍽️ Enjoy a traditional Rajasthani Thali at a heritage restaurant",
+            "🎭 Watch a folk dance performance at Bagore Ki Haveli"
+        ],
+        "Day 2": [
+            "🏜️ Visit Jaisalmer Fort and explore the golden city",
+            "🐫 Take a camel safari in the Thar Desert",
+            "🔥 Enjoy a bonfire night with Rajasthani folk music"
+        ],
+        "Day 3": [
+            "🌳 Visit Ranthambore National Park for a tiger safari",
+            "🍲 Try Dal Baati Churma, a Rajasthani specialty",
+            "✈️ Depart or explore the markets of Jodhpur"
+        ]
+    },
+    "Bangalore": {
+    "Day 1": [
+      "🏛️ Visit Bangalore Palace",
+      "🌳 Relax at Cubbon Park",
+      "🍽️ Try South Indian cuisine at MTR or Vidyarthi Bhavan"
+    ],
+    "Day 2": [
+      "🔬 Explore Visvesvaraya Industrial and Technological Museum",
+      "🛍️ Shop at Commercial Street",
+      "🌇 Sunset at Ulsoor Lake"
+    ],
+    "Day 3": [
+      "🌺 Visit Lalbagh Botanical Garden",
+      "🖼️ Discover contemporary art at National Gallery of Modern Art",
+      "✈️ Depart or explore cafes in Indiranagar"
+    ]
+  },
+  "Chennai": {
+    "Day 1": [
+      "⛪ Visit San Thome Basilica",
+      "🏖️ Relax at Marina Beach",
+      "🍛 Try Tamil Nadu thali"
+    ],
+    "Day 2": [
+      "🎨 Explore Government Museum and Art Gallery",
+      "🛍️ Shop at T Nagar",
+      "🎭 Watch a traditional dance performance"
+    ],
+    "Day 3": [
+      "🌳 Visit Guindy National Park",
+      "☕ Enjoy filter coffee at a local cafe",
+      "✈️ Depart or stroll along Elliot's Beach"
+    ]
+  },
+  "Mysore": {
+    "Day 1": [
+      "🏰 Visit Mysore Palace",
+      "🌸 Stroll in Brindavan Gardens",
+      "🍛 Try Mysore masala dosa"
+    ],
+    "Day 2": [
+      "🛕 Visit Chamundi Hill and Temple",
+      "🦢 Explore Karanji Lake and Nature Park",
+      "🛍️ Shop for Mysore silk sarees"
+    ],
+    "Day 3": [
+      "🎨 Visit Jaganmohan Palace and Art Gallery",
+      "🌳 Relax at Kukkarahalli Lake",
+      "✈️ Depart or explore local markets"
+    ]
+  },
+  "Hyderabad": {
+    "Day 1": [
+      "🏯 Visit Charminar and Mecca Masjid",
+      "🍛 Try Hyderabadi biryani",
+      "🌉 Stroll around Hussain Sagar Lake"
+    ],
+    "Day 2": [
+      "🏰 Explore Golconda Fort",
+      "🖼️ Visit Salar Jung Museum",
+      "🛍️ Shop at Laad Bazaar"
+    ],
+    "Day 3": [
+      "🌳 Relax at KBR National Park",
+      "🎢 Visit Ramoji Film City",
+      "✈️ Depart or enjoy Irani Chai and Osmania biscuits"
+    ],
+    "Manali": [
+    "🗓️ Day 1: Arrival & Local Sightseeing - Visit Hadimba Devi Temple, Manu Temple, and Club House. Enjoy the Mall Road in the evening.",
+    "🗓️ Day 2: Solang Valley & Adventure - Spend the day at Solang Valley. Try paragliding, skiing (in winters), or ropeway. Optional visit to Atal Tunnel.",
+    "🗓️ Day 3: Naggar & Departure - Visit Naggar Castle, Roerich Art Gallery, and enjoy the riverside cafes before departure."
+  ]
+  }
+ }
+
+
